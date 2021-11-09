@@ -11,8 +11,10 @@
 .logo {
   margin-top: 100%;
   font-size: 28px;
+  font-family: sans-serif;
 }
 .welcome {
+  font-family: sans-serif;
   position: absolute;
   top: 40%;
   width: 100%;
